@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>GUI Properties</comment>
+<entry key="ref_sash_w_table">800</entry>
+<entry key="prop_last_opened_file">E:\work\bookshepherd\temp\TEST\RefMan\test\Research ProcessLab.xml</entry>
+<entry key="file_dlg_filter_path">c:\Dokumente und Einstellungen\karlow</entry>
+<entry key="column_w_exc_3">100</entry>
+<entry key="column_w_exc_2">200</entry>
+<entry key="column_w_exc_1">100</entry>
+<entry key="column_w_exc_0">200</entry>
+<entry key="column_sort_exc_3">0</entry>
+<entry key="column_sort_exc_2">0</entry>
+<entry key="column_sort_exc_1">0</entry>
+<entry key="column_sort_exc_0">0</entry>
+<entry key="show_column_exc_3">image</entry>
+<entry key="column_w_6">100</entry>
+<entry key="show_column_exc_2">text</entry>
+<entry key="column_w_5">60</entry>
+<entry key="show_column_exc_1">shortname</entry>
+<entry key="column_w_4">300</entry>
+<entry key="show_column_exc_0">reference</entry>
+<entry key="column_w_3">200</entry>
+<entry key="exc_sash_w_tree">200</entry>
+<entry key="column_w_2">30</entry>
+<entry key="column_w_1">65</entry>
+<entry key="column_w_0">137</entry>
+<entry key="show_column_6">file</entry>
+<entry key="window_y">1</entry>
+<entry key="show_column_5">year</entry>
+<entry key="window_x">11</entry>
+<entry key="show_column_4">title</entry>
+<entry key="editdlg_window_y">292</entry>
+<entry key="window_w">1248</entry>
+<entry key="show_column_3">author</entry>
+<entry key="editdlg_window_x">318</entry>
+<entry key="show_column_2">filetype</entry>
+<entry key="prop_ref_base_path"></entry>
+<entry key="editdlg_window_w">600</entry>
+<entry key="show_column_1">bibtexdoctype</entry>
+<entry key="show_column_0">shortname</entry>
+<entry key="ref_sash_w_tree">200</entry>
+<entry key="window_h">922</entry>
+<entry key="editdlg_window_h">400</entry>
+<entry key="column_sort_6">0</entry>
+<entry key="column_sort_5">0</entry>
+<entry key="column_sort_4">0</entry>
+<entry key="column_sort_3">0</entry>
+<entry key="column_sort_2">0</entry>
+<entry key="column_sort_1">0</entry>
+<entry key="file_dlg_image_path"></entry>
+<entry key="column_sort_0">128</entry>
+<entry key="exc_sash_w_table">800</entry>
+</properties>

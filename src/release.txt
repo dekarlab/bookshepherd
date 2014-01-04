@@ -1,0 +1,21 @@
+#Book Shepherd v. 0.1.9 BETA
+- Integration with Google Scholar (in BibTex properties Dialog). 
+Title attribute is used as search string in scholar.google.com.
+- endnote.properties is the list of substitutes for Endnote export
+- Logging in bookshepherd.log
+ 
+#Book Shepherd v. 0.1.8 BETA
+- Fixed bug with bibtex export, the keyName from Authors and year is generated.
+- Import files, using folders as category.  
+
+#Book Shepherd v. 0.1.7 BETA (2010-02-26)
+-Custom attributes
+- Fixed bug with Year and Month for article for new Reference
+
+#Book Shepherd v. 0.1.6 BETA (2010-02-10)
+- Type saved as work-type in EndNote
+- Save in Endnote not alt-title but translated-title
+
+#Book Shepherd v. 0.1.6 BETA (2010-02-02)
+- Saved type for TechReport
+- Fixed bug: updating of default file path after exit 

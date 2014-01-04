@@ -1,0 +1,7 @@
+- Import/Export plugin architecture
+- Add reference: automatically add groups
+- Drag and drop
+- Amazon.com Integration (DL10)
+- Rename files using the information in window
+- Site  
+- Open program using file extension
